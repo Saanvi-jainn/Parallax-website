@@ -90,7 +90,7 @@ body{
 .intro p {
     width: 700px;
     max-width: 100%;
-    text-align: center;
+    text-align: justify;
 }
 
 .intro button {
